@@ -1,6 +1,6 @@
 import math
 print("dammi il raggio")
-r=input("?")
+r=input("?") #<cosa significa domani me lo spiegate haahha
 r=int(r)
 
 s=4*math.pi*r*r
