@@ -14,7 +14,7 @@ if scelta==1:
 elif scelta==2:
 	raggio=input("raggio")
 	raggio=int(raggio)
-	volume= 4/3 * math.pi *raggio*raggio*raggio
+	volume= 4.0/3.0 * math.pi *raggio*raggio*raggio
 	print("il volume di",raggio," e'",volume)
 else:
 	print("premi 1 o 2")
