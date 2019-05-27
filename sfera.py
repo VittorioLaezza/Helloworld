@@ -5,7 +5,7 @@ r=int(r)
 
 s=4*math.pi*r*r
 
-v=4/3*math.pi*r*r*r
+v=4.0/3.0*math.pi*r*r*r
 
 print("il volume e'",v)
 print("la superficie e'",s)
